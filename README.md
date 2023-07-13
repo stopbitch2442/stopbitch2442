@@ -11,9 +11,9 @@
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=stopbitch2442&show_icons=true&theme=blue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=stopbitch2442&show_icons=true&theme=blue" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stopbitch2442&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stopbitch2442&layout=compact" />
 </a>

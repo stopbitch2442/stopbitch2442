@@ -1,4 +1,4 @@
-Привет, рад тебя видеть
+Hello, my name is Timur, I am a programmer from Russia, I will be glad if you find my work useful
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="100"/>
 </div>
